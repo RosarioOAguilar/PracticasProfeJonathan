@@ -27,6 +27,9 @@ void  multiplo_cinco(){
  // Inicio del programa principal	
 int main ()
 {
+
+	int pillos = 10;
+	int juan = 20003;
 	int con=0; int opc;
 	system("Color 0c");
 	printf("\n \t\tMaria del Rosario Aguilar Carrillo \n\n\n\t\t\t Que Deseas Mostrar\n\n\n\n\t\t\t 1)Multiplos de  3   \n\t\t\t 2)Multiplos de  5\n");
